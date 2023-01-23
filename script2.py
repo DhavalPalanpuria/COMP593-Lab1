@@ -1,0 +1,1 @@
+print("Toaster is broken.")
